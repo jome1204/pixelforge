@@ -1,0 +1,10 @@
+build/
+out/
+work/
+*.o
+*.obj
+*.exe
+*.pdb
+*.ilk
+.vs/
+.vscode/
